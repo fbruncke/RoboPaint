@@ -12,6 +12,8 @@ public class Main {
         jrp.DrawLine(300,800,300,500);
 
 
+        jrp.DrawCircle(100,300,300);
+
 
         System.exit(0);
 
